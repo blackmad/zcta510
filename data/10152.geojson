@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ZCTA5CE10": "10152", "GEOID10": "10152", "CLASSFP10": "B5", "MTFCC10": "G6350", "FUNCSTAT10": "S", "ALAND10": 12423.0, "AWATER10": 0.0, "INTPTLAT10": "+40.7584035", "INTPTLON10": "-073.9720314" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.972613, 40.759059 ], [ -73.970993, 40.758373 ], [ -73.971451, 40.757749 ], [ -73.973068, 40.758432 ], [ -73.972613, 40.759059 ] ] ] } }
+]
+}
